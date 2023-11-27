@@ -6,7 +6,10 @@
 
 ## Escolaridade
 - Técnico em Informática, Senac Americana [2023 - 2025]
+- Ensino Médio Completo [2020 - 2022]
 
 ### Cursos Livres
 - Excel, Senac Americana [24h]
 - Excel Avançado, Senac Americana [39h]
+
+
